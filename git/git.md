@@ -24,3 +24,7 @@ Used for 4 main reasons
     - commits changes that have been added to the origin branch
 `git push origin master`
     - do this to make a pull request
+`git log`
+    - view the most recent commits
+`git rebase -i HEAD~<number of commits to review>`
+    - combine, reorder, reword commits
