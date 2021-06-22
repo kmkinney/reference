@@ -36,4 +36,6 @@ Used for 4 main reasons
     - view the most recent commits
 `git rebase -i HEAD~<number of commits to review>`
     - combine, reorder, reword commits
+`git remote prune origin`
+    - Removes old branches that were deleted
 
